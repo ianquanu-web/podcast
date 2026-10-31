@@ -37,8 +37,8 @@
 - 给每条自动化加自检：每日新闻邮件发送前检查链接、日期（24 小时内）和音频是否可播放，不合格就在顶部标红。
 - 给每个客户建一份“客户地图”：品牌、受众、广告账户、合规红线、历史决定。先做律所客户。
 - 每纠正一次 AI 就更新一次技能：视频提示词、新闻脚本、广告文案各一个；禁用词和字数限制写成脚本检查。</itunes:summary>
-      <enclosure url="https://ianquanu-web.github.io/podcast/episodes/10-27.mp3" length="2753655" type="audio/mpeg"/>
-      <guid isPermaLink="false">video-digest-10-27</guid>
+      <enclosure url="https://ianquanu-web.github.io/podcast/episodes/10-27-v2.mp3" length="2753655" type="audio/mpeg"/>
+      <guid isPermaLink="false">video-digest-10-27-v2</guid>
       <pubDate>Fri, 30 Oct 2026 15:00:00 -0400</pubDate>
       <itunes:duration>03:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
