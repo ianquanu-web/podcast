@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>视频速听</title>
+    <link>https://ianquanu-web.github.io/podcast/</link>
+    <atom:link href="https://ianquanu-web.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>把长视频听成几分钟：要点 + 可执行的行动建议。私人订阅。</description>
+    <itunes:author>David Han</itunes:author>
+    <itunes:image href="https://ianquanu-web.github.io/podcast/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Cursor 工程师月合 1000 个 PR：怎样让 AI 值得信任</title>
+      <description>Lauren Tan 的直播分享：信任来自验证、技能沉淀和硬约束，而不是更强的模型。
+
+要点：
+1. 用不好 AI 的根本原因是不信任它：不信任就只能微管理，没法同时开很多个智能体。
+2. 验证是第一能力：让 AI 自己跑产品、截图、测性能，再配一份“功能地图”，你就不再是瓶颈。
+3. 技能从失败中来：每发现一种犯错方式就写成技能文件，用评测打分、换模型当裁判，改到满分。
+4. 硬约束胜过软规则：把规则写成自动检查，不合格直接报错；每次人工指出同一问题，就把它变成规则。
+
+行动建议：
+- 给每条自动化加自检：每日新闻邮件发送前检查链接、日期（24 小时内）和音频是否可播放，不合格就在顶部标红。
+- 给每个客户建一份“客户地图”：品牌、受众、广告账户、合规红线、历史决定。先做律所客户。
+- 每纠正一次 AI 就更新一次技能：视频提示词、新闻脚本、广告文案各一个；禁用词和字数限制写成脚本检查。</description>
+      <itunes:summary>Lauren Tan 的直播分享：信任来自验证、技能沉淀和硬约束，而不是更强的模型。
+
+要点：
+1. 用不好 AI 的根本原因是不信任它：不信任就只能微管理，没法同时开很多个智能体。
+2. 验证是第一能力：让 AI 自己跑产品、截图、测性能，再配一份“功能地图”，你就不再是瓶颈。
+3. 技能从失败中来：每发现一种犯错方式就写成技能文件，用评测打分、换模型当裁判，改到满分。
+4. 硬约束胜过软规则：把规则写成自动检查，不合格直接报错；每次人工指出同一问题，就把它变成规则。
+
+行动建议：
+- 给每条自动化加自检：每日新闻邮件发送前检查链接、日期（24 小时内）和音频是否可播放，不合格就在顶部标红。
+- 给每个客户建一份“客户地图”：品牌、受众、广告账户、合规红线、历史决定。先做律所客户。
+- 每纠正一次 AI 就更新一次技能：视频提示词、新闻脚本、广告文案各一个；禁用词和字数限制写成脚本检查。</itunes:summary>
+      <enclosure url="https://ianquanu-web.github.io/podcast/episodes/10-27.mp3" length="2525805" type="audio/mpeg"/>
+      <guid isPermaLink="false">video-digest-10-27</guid>
+      <pubDate>Fri, 30 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:duration>03:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
