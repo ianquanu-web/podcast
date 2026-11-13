@@ -12,6 +12,36 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Codex新版全攻略：文件夹、并行和Skill</title>
+      <description>一期五十多分钟的 Codex 新版教程：真正拉开差距的不是模型，而是文件夹、并行任务和自己养出来的 Skill。出处：https://youtu.be/m6U_TGf9Z_M
+
+要点：
+1. 用好 Codex 的关键是文件夹：主文件夹放规则和结果，补充文件夹当知识库；调研做完归档回知识库，规则用 AGENTS 文件分全局和项目层级，越靠近当前目录优先级越高。
+2. 学会并行：一条指令拆成多个独立任务同时跑，AI 忙时就新开对话；表格、文档、PPT、Chrome 和录制技能等插件，把一份数据一路做成报告、幻灯片和网页，或把重复流程录成技能包。
+3. 真正好用的 Skill 从自己的工作流里长出来：先出图确认再出视频，每次纠正后让 AI 把要求和踩过的坑写回 Skill；再用 Hook 拦住改 .env 等高风险操作，用自动化定时跑日报。
+
+行动建议：
+- 给律所客户建“主文件夹 + 补充文件夹”：主文件夹放任务规则和每周广告文案，补充文件夹放品牌规范、合规红线和历史文案；新开对话只说“写本周 Google Ads 文案”，AI 不用再交代就能避开合规红线，算完成。
+- 把 AI 短剧或 AI 新闻视频流程做成“先出图、确认后再出视频”的两阶段 Skill，每次纠正后让 AI 写回 Skill；连续三条视频同一个问题不用说第二遍，算完成。
+- 给 Claude 自动化加一道保险：凡是碰 API key、密钥文件的任务，规则里写明改之前先给方案、等确认；故意让它改一次密钥文件，看到它停下来问你，算完成。</description>
+      <itunes:summary>一期五十多分钟的 Codex 新版教程：真正拉开差距的不是模型，而是文件夹、并行任务和自己养出来的 Skill。出处：https://youtu.be/m6U_TGf9Z_M
+
+要点：
+1. 用好 Codex 的关键是文件夹：主文件夹放规则和结果，补充文件夹当知识库；调研做完归档回知识库，规则用 AGENTS 文件分全局和项目层级，越靠近当前目录优先级越高。
+2. 学会并行：一条指令拆成多个独立任务同时跑，AI 忙时就新开对话；表格、文档、PPT、Chrome 和录制技能等插件，把一份数据一路做成报告、幻灯片和网页，或把重复流程录成技能包。
+3. 真正好用的 Skill 从自己的工作流里长出来：先出图确认再出视频，每次纠正后让 AI 把要求和踩过的坑写回 Skill；再用 Hook 拦住改 .env 等高风险操作，用自动化定时跑日报。
+
+行动建议：
+- 给律所客户建“主文件夹 + 补充文件夹”：主文件夹放任务规则和每周广告文案，补充文件夹放品牌规范、合规红线和历史文案；新开对话只说“写本周 Google Ads 文案”，AI 不用再交代就能避开合规红线，算完成。
+- 把 AI 短剧或 AI 新闻视频流程做成“先出图、确认后再出视频”的两阶段 Skill，每次纠正后让 AI 写回 Skill；连续三条视频同一个问题不用说第二遍，算完成。
+- 给 Claude 自动化加一道保险：凡是碰 API key、密钥文件的任务，规则里写明改之前先给方案、等确认；故意让它改一次密钥文件，看到它停下来问你，算完成。</itunes:summary>
+      <enclosure url="https://ianquanu-web.github.io/podcast/episodes/yt-m6U_TGf9Z_M.mp3" length="3433911" type="audio/mpeg"/>
+      <guid isPermaLink="false">video-digest-yt-m6U_TGf9Z_M</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 -0400</pubDate>
+      <itunes:duration>04:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>91%的担忧不会发生：别让紧张偷走你的现在</title>
       <description>一期十二分钟的心理学视频：紧张不是想不开，是一套可以看清、可以拆掉的机制。出处：https://youtu.be/oVxC-elrOpk
 
